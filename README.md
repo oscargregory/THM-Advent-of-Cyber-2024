@@ -1,5 +1,5 @@
 # THM-Advent-of-Cyber-2024
-![alt text](https://imgur.com/a/dyLEN5x)
+![Certification](https://i.imgur.com/Wljqhof.png)
 # TryHackMe - Advent of Cyber 2024
 
 I recently completed TryHackMe’s 24-day Cybersecurity Advent Calendar, **Advent of Cyber**. This challenge featured a new Capture The Flag (CTF) exercise for each day of December. It was an incredible experience that provided hands-on exposure to various cybersecurity concepts and industry-standard tools. 
